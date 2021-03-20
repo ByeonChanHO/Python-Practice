@@ -12,15 +12,15 @@
 
 ### 동작 방법
 
-  +이미지를 448 X 448로 변경 후 S X S grid로 나눈다.
+  + 이미지를 448 X 448로 변경 후 S X S grid로 나눈다.
   
-  +각 cell에 대한 C개의 클래스에 대한 예측값 생성, B개의 bounding box 예측
+  각 cell에 대한 C개의 클래스에 대한 예측값 생성, B개의 bounding box 예측
   
-  +Class에 대한 예측은 경우 색으로 구분
+  Class에 대한 예측은 경우 색으로 구분
   
-  +Bounding box는 confidence와 합해져 구분
+  Bounding box는 confidence와 합해져 구분
   
-  +위 결과를 종합해 detection map을 생성한다. (물체를 디텍션한다.)
+  위 결과를 종합해 detection map을 생성한다. (물체를 디텍션한다.)
 
 
 ### YOLO 프레임워크
