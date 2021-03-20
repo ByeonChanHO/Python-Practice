@@ -23,3 +23,4 @@
   + DarkFlow : Tensorflow 를 활용한 YOLO 신경망
   + OpenCV - 현재 여기에 올린 코드
 
+## 참조 : https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection
