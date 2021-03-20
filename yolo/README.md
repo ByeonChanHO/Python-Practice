@@ -17,6 +17,7 @@ Yolo 의 장점
   Bounding box는 confidence와 합해져 구분
   위 결과를 종합해 detection map을 생성한다. (물체를 디텍션한다.)
 
+
 YOLO 프레임워크
   Darknet : C언어로 작성된 물체 인식 오픈 소스 신경망
   DarkFlow : Tensorflow 를 활용한 YOLO 신경망
