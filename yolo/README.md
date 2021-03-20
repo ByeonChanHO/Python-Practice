@@ -1,4 +1,4 @@
-Yolo 프로그램 연습
+#Yolo 프로그램연습
 
 Yolo 결과
 
@@ -12,7 +12,7 @@ Yolo 의 장점
 
 동작 방법
 
-  이미지를 448 X 448로 변경 후 S X S grid로 나눈다.
+   이미지를 448 X 448로 변경 후 S X S grid로 나눈다.
   
   각 cell에 대한 C개의 클래스에 대한 예측값 생성, B개의 bounding box 예측
   
